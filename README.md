@@ -9,7 +9,7 @@ Controls:
   
   LeftMouseClick - Select unit, Place Building
   
-  RightMouseClick - MoveTo / Gather Resource / Build
+  RightMouseClick - MoveTo, Gather Resource, Build
   
   MouseButton3(Hold) - Drag Multi Select
   
